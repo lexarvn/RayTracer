@@ -9,7 +9,8 @@ Supported materials: diffuse, specular, dielectric, emmissive, and compound mart
 Textures can be defined as bitmaps, colors, and soild noise.
 Timelines can be defined for animation.
 
-All programming done in c++11
+All programming done in c++11.
+Scenes are defined in c++. Examples can be found in Main.cpp
 Depends on optional from boost library.
 
 Note: Bitmaps and ply files must be in the same working directory as the compiled program.
