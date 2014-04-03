@@ -9,6 +9,7 @@ Supported materials: diffuse, specular, dielectric, emmissive, and compound mart
 
 Textures can be defined as bitmaps, colors, and soild noise.
 Timelines can be defined for animation.
+Simple HDR processing has also been implemented.
 
 All programming done in c++11.
 Scenes are defined in c++. Examples can be found in Main.cpp
